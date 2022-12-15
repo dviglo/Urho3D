@@ -1,3 +1,7 @@
+Это версия движка Urho3D, на которой основан игровой движок [Dviglo](https://github.com/dviglo/dviglo).
+
+---
+
 # Urho3D
 
 [![CI/CD](https://github.com/urho3d/Urho3D/workflows/CI/CD/badge.svg)](https://github.com/urho3d/Urho3D/actions?query=workflow%3ACI%2FCD)
